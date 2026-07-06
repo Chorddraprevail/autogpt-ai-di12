@@ -1,4 +1,4 @@
-# 
+# Professionnel AutoGPT extensions. Avec open source et exécution de code — optimisé pour des performances et une efficacité maximales.
 
 
 
